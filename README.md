@@ -7,7 +7,7 @@ The colors of this flag include lime green for growth, kelly green for balance, 
 Lime Green | Growth | #94C83D
 This color also represents kindness.
 
-Kelly Green |Balance | #09743B
+Kelly Green | Balance | #09743B
 This color also represents harmony.
 
 Sky Blue | Freedom | #4CBFEE
